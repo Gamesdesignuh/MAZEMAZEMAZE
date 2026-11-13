@@ -107,11 +107,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 103
+        width: 39
         height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 19, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -123,11 +123,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: IDLE_CAKEDAYLOOP_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 30
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46777192, y: 0.50013775}
+      border: {x: 0, y: 0, z: 16, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e2e0f1d796c145bd59d0ea21d426c
+      internalID: -614699190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_CAKEDAYLOOP_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 16, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87d716e7d2524849acb5e548089e315
+      internalID: -529894645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7f0f5c5788d5dac419c769c16dda7f70
     internalID: 0
     vertices: []
     indices: 
@@ -138,6 +182,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       IDLE_CAKEDAYLOOP_0: 853106440930356869
+      IDLE_CAKEDAYLOOP_1: -614699190
+      IDLE_CAKEDAYLOOP_2: -529894645
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

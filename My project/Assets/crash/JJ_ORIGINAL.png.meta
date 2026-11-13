@@ -105,12 +105,12 @@ TextureImporter:
       name: JJ_ORIGINAL_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 195
-        height: 67
+        x: 1
+        y: 4
+        width: 28
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -123,11 +123,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: JJ_ORIGINAL_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d139dc7ca9cc2a54f8c90eafff80039f
+      internalID: -943315817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JJ_ORIGINAL_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c88c72b573c984d88041bfed3cd4aa
+      internalID: 2042682373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JJ_ORIGINAL_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e35e2941fdfac3478205df7b8bdbe04
+      internalID: 252425829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JJ_ORIGINAL_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca958cf2c2455564b85de6c25f9e3684
+      internalID: 1081535338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 75f674f6fec984e4ba0f8d15ebf26d26
     internalID: 0
     vertices: []
     indices: 
@@ -135,9 +223,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       JJ_ORIGINAL_0: -5445255964605801578
+      JJ_ORIGINAL_1: -943315817
+      JJ_ORIGINAL_2: 2042682373
+      JJ_ORIGINAL_3: 252425829
+      JJ_ORIGINAL_4: 1081535338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

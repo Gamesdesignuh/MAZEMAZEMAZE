@@ -105,12 +105,12 @@ TextureImporter:
       name: JJ_DOUBLE_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 191
-        height: 79
+        x: 8
+        y: 16
+        width: 42
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -123,11 +123,77 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: JJ_DOUBLE_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aec11344f87f840bb950e3a090a755
+      internalID: 1961759651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JJ_DOUBLE_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 16
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e419e619fee9c4b9c8d6e49a34bfed
+      internalID: -930050900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JJ_DOUBLE_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874d5d0fa71277f48b682f0c367abc33
+      internalID: 108414265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dc9ce01ca03c37a48b9ca9bae00d7e03
     internalID: 0
     vertices: []
     indices: 
@@ -135,9 +201,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       JJ_DOUBLE_0: 4633032754124507193
+      JJ_DOUBLE_1: 1961759651
+      JJ_DOUBLE_2: -930050900
+      JJ_DOUBLE_3: 108414265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
