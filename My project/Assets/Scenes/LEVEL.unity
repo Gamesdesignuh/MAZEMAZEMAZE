@@ -893,7 +893,7 @@ GameObject:
   - component: {fileID: 238877185}
   - component: {fileID: 238877188}
   - component: {fileID: 238877190}
-  - component: {fileID: 238877189}
+  - component: {fileID: 238877191}
   m_Layer: 0
   m_Name: key_1
   m_TagString: Key
@@ -991,19 +991,6 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &238877189
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 238877184}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d442f73d95e4ed2468627a36c139d221, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Key
-  door: {fileID: 974702841}
 --- !u!61 &238877190
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1050,6 +1037,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 8.4653225, y: 5.4557}
   m_EdgeRadius: 0
+--- !u!114 &238877191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 238877184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d442f73d95e4ed2468627a36c139d221, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Key
+  door: {fileID: 361673910}
 --- !u!1 &361673910
 GameObject:
   m_ObjectHideFlags: 0
